@@ -16,6 +16,6 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 Clique nos links abaixo para acessar os arquivos de cada semana:
 
-
+ - [Semana-02](./semana-02)
 
 ---
