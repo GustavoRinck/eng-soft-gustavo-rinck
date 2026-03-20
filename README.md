@@ -18,4 +18,8 @@ Clique nos links abaixo para acessar os arquivos de cada semana:
 
  - [Semana-02](./semana-02)
 
+ - [Semana-03](./semana-03)
+  
+ - [Semana-04](./semana-04)
+
 ---
