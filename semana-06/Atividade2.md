@@ -71,8 +71,11 @@ RF16. O sistema deve manter os dados dos hóspedes armazenados por até 1 ano.
 RNF1. O sistema deve ser acessível em dispositivos móveis para uso pela equipe de limpeza.
 
 RNF2 (Usabilidade): Interface simples e intuitiva para recepcionistas e equipe de limpeza.
+
 RNF3 (Desempenho): O sistema deve responder às ações do usuário em até 2 segundos.
+
 RNF4 (Segurança): O sistema deve autenticar usuários com login e senha.
+
 RNF5 (Disponibilidade): O sistema deve estar disponível 99% do tempo.
 
 
