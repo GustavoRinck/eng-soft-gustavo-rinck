@@ -1,4 +1,4 @@
-# Historias de Usuario 
+ # Historias de Usuario 
 
   1. Como atendente quero não poder registrar reservas quando o quarto ja estiver ocupado, porque evitaria problemas com reservas conflitantes.
 
@@ -34,7 +34,7 @@
 
   17. Como gerente quero poder ter o registro dos dados dos hospeder por um 1 ano, para reaproveitalo caso ele volte.
 
-  # Requisito
+   # Requisito
 
 RF1. O sistema deve impedir o registro de reservas para quartos já ocupados.
 
