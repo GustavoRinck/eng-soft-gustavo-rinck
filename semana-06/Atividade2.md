@@ -36,6 +36,44 @@
 
   # Requisito
 
+RF1. O sistema deve impedir o registro de reservas para quartos já ocupados.
+
+RF2. O sistema deve avisar quando um quarto já estiver reservado ao tentar realizar uma nova reserva.
+
+RF3. O sistema deve permitir o cadastro dos hóspedes vinculados a uma reserva.
+
+RF4. O sistema deve apresentar um mapa de quartos, exibindo o tipo de suíte e seu status (ocupado/livre).
+
+RF5. O sistema deve permitir o registro de itens de consumo na conta do cliente.
+
+RF6. O sistema deve diferenciar os preços de acordo com o tipo de suíte.
+
+RF7. O sistema deve notificar a equipe de limpeza quando um quarto precisar ser limpo.
+
+RF8. O sistema deve permitir que o hóspede solicite limpeza do quarto.
+
+RF9. O sistema deve permitir que funcionários da limpeza registrem consumo de itens do frigobar na conta do cliente.
+
+RF10. O sistema deve permitir ao gerente definir diferentes itens para frigobares de acordo com o nível da suíte.
+
+RF11. O sistema deve permitir o cadastro e edição de tipos de itens (água, chocolate, etc.) e seus preços.
+
+RF12. O sistema deve manter controle de estoque, atualizando automaticamente quando itens forem adicionados ou consumidos.
+
+RF13. O sistema deve permitir o registro em massa de itens no estoque, informando tipo e quantidade.
+
+RF14. O sistema deve restringir o acesso apenas a funcionários autorizados.
+
+RF15. O sistema deve gerar relatório mensal de faturamento do hotel.
+
+RF16. O sistema deve manter os dados dos hóspedes armazenados por até 1 ano.
+
+RNF1. O sistema deve ser acessível em dispositivos móveis para uso pela equipe de limpeza.
+
+RNF2 (Usabilidade): Interface simples e intuitiva para recepcionistas e equipe de limpeza.
+RNF3 (Desempenho): O sistema deve responder às ações do usuário em até 2 segundos.
+RNF4 (Segurança): O sistema deve autenticar usuários com login e senha.
+RNF5 (Disponibilidade): O sistema deve estar disponível 99% do tempo.
 
 
 
