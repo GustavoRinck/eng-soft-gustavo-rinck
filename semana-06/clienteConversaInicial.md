@@ -54,7 +54,7 @@ Então, além do que eu vendo ali no balcão da recepção, eu queria poder lan�
 * **Quebras ou Danos:** Infelizmente, às vezes alguém quebra um copo ou mancha uma toalha, e eu preciso cobrar isso também.
 
 O ideal seria que, quando eu fosse fechar a conta da pessoa (o tal do "checkout" que você disse), o sistema me mostrasse uma lista: 
-> **"Seu Geraldo, o total deu tanto: X das diárias + Y das águas que ele bebeu + Z do lanche."**
+**"Seu Geraldo, o total deu tanto: X das diárias + Y das águas que ele bebeu + Z do lanche."**
 
 Aí não tem erro! Eu mostro a tela pro cliente, ele vê que está tudo organizado e paga sem reclamar.
 
