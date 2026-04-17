@@ -3,18 +3,14 @@
 ## Informações do Projeto ##
 
 
+| Campo   |      Descrição      |
+|----------|:-------------:|
+| Nome do Projeto: |  Sistema de Gestão Hoteleira Bela Vista | 
+| Dono do Projeto: |    Hotel Bela Vista   |  
+| Versão: | 1.0|
+| Data: | 16/04/2026 | 
 
-Nome do Projeto: 
-Sistema de Gestão Hoteleira Bela Vista 
 
-Dono do Projeto: 
-Hotel Bela Vista
-
-Versão: 
-1.0
-
-Data: 
-16/04/2026
 
 
 ## 1. Introdução ##
@@ -222,20 +218,29 @@ Regras:
 
 
 ## 11. Cronograma do Projeto ##
-Tarefa ---------------------- Data de Início ---- Data de Término
 
-Levantamento de Requisitos ---- 7/04/2026 -------  16/04/2026
+
+| Tarefa   |      Data de Início      |  Data de Término |
+|----------|:-------------:|------:|
+| Levantamento de Requisitos |  7/04/2026 | 16/04/2026 |
+| Design |    xx/xx/xxxx   |     xx/xx/xxxx  |
+| Desenvolvimento |  xx/xx/xxxx  |     xx/xx/xxxx  |
+| Testes |  xx/xx/xxxx  |     xx/xx/xxxx  |
+| Implantação |  xx/xx/xxxx  |     xx/xx/xxxx  |
+
+
 
 
 
 ## Revisões ##
 
+| Versão   |      Data      |  Descrição |
+|----------|:-------------:|------:|
+| 1.0 |  16/04/2026 |  Versão inicial baseada na entrevista com o cliente|
 
-1.0
 
-16/04/2026
 
-Versão inicial baseada na entrevista com o cliente
+
 
 
 
