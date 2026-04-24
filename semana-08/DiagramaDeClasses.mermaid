@@ -1,0 +1,67 @@
+classDiagram
+
+class Hospede {
+  +id: int
+  +nome: string
+  +cpf: string
+  +telefone: string
+  +historico: string
+}
+
+class Quarto {
+  +id: int
+  +numero: int
+  +tipo: string
+  +status: string
+  +precoDiaria: decimal
+}
+
+class Reserva {
+  +id: int
+  +dataEntrada: date
+  +dataSaida: date
+  +status: string
+}
+
+class Consumo {
+  +id: int
+  +data: date
+  +valorTotal: decimal
+}
+
+class ItemConsumo {
+  +quantidade: int
+  +subtotal: decimal
+}
+
+class Produto {
+  +id: int
+  +nome: string
+  +preco: decimal
+}
+
+class Estoque {
+  +id: int
+  +quantidade: int
+}
+
+class Funcionario {
+  +id: int
+  +nome: string
+  +login: string
+  +senha: string
+  +tipo: string
+}
+
+%% Relacionamentos
+Hospede "1" --> "0..*" Reserva : faz
+Reserva "1" --> "1" Quarto : reserva
+Reserva "1" --> "1" Consumo : gera
+Consumo "1" --> "1..*" ItemConsumo : possui
+ItemConsumo "*" --> "1" Produto : refere-se
+
+Produto "1" --> "1" Estoque : possui
+
+Funcionario --> Reserva : gerencia
+Funcionario --> Consumo : registra
+Funcionario --> Quarto : atuali
